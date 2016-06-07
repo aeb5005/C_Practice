@@ -1,8 +1,4 @@
-// Alex Burns
-// Assignment 1
-// 9/6/2014
-//
-// EMAIL: aeb5005@gmail.com
+// from 2014
 
 #include <stdio.h>
 
